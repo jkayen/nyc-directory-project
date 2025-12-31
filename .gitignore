@@ -1,0 +1,14 @@
+nyc_manager.py
+trash/
+
+# Ignore the virtual environment
+venv/
+.venv/
+
+# Ignore raw data and batch files (too big for GitHub)
+directory_text_files/
+*.jsonl
+*.txt
+
+# Ignore OS-specific files
+.DS_Store
