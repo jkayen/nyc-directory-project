@@ -1,5 +1,5 @@
 nyc_manager.py
-patch_database.py
+utils/
 trash/
 
 # Ignore the virtual environment
